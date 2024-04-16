@@ -1,0 +1,24 @@
+h1 {
+  color: red;
+}
+
+h1:hover {
+  color: green;
+}
+.aaa {
+  background-color: yellow;
+}
+
+#good {
+  color: blue;
+}
+
+table {
+  border: 1px solid red;
+}
+
+td {
+  border: 1px dashed green;
+  color: brown;
+}
+
